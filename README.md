@@ -25,4 +25,4 @@ Some Plugins
   * E-Mail: fifthchat@163.com
 
   ### Ref
-  https://derivative.ca/community-post/asset/backdropper/63283
+  base on Tim Gerritsen's backdropper <tim@teamgorobot.com>
