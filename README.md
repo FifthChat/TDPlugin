@@ -4,8 +4,6 @@ Some Plugins
 * ##  Memo v1.0
   A backdrop component in touchdesigner.
   
-  *If you use NON-COMMERCIAL version of touchdesigner, use Memo_NON-COMMERCIAL.tox. Otherwise, use Memo_COMMERCIAL&PRO.tox*
-
   ### Use
   
   * Pull the tox file into the TD
@@ -25,4 +23,4 @@ Some Plugins
   * E-Mail: fifthchat@163.com
 
   ### Ref
-  base on Tim Gerritsen's backdropper <tim@teamgorobot.com>
+  base on Tim Gerritsen's backdropper <tim@yfxlab.com>
