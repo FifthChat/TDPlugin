@@ -18,9 +18,14 @@ Some Plugins
   *  Don't split the Pane
   *  Don't display other OP
 
-  ### Contact
-  
-  * E-Mail: fifthchat@163.com
-
   ### Ref
   base on Tim Gerritsen's backdropper <tim@yfxlab.com>
+  
+  
+* ##  State Manager v1.0
+  A plugin that switches different states according to time.
+  
+
+### Contact
+  
+  * E-Mail: fifthchat@163.com
